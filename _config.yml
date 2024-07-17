@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Ocean Front Leather Bag
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theoceanfrontbag.com" # the base hostname & protocol for your site, e.g. http://example.com  
-tinylytics: 
+tinylytics: https://tinylytics.app/embed/uaP7SKyQzNDtL3L7yMCN.js
 product: Ocean Front
 tag-line: 
 shopify-url:
