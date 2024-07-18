@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ocean Front - Leather Tote
+title: Ocean Front - Leather Bag
 email:
 webmaster: Aaron Aiken
 webmaster-url: https://amaiken.com/pages/about
 description: >- # this means to ignore newlines until "baseurl:"
-  The Ocean Front Leather Bag
+  The Ocean Front Leather Bag - Your Memories. With You.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theoceanfrontbag.com" # the base hostname & protocol for your site, e.g. http://example.com  
-tinylytics: https://tinylytics.app/embed/uaP7SKyQzNDtL3L7yMCN.js
+tinylytics: https://tinylytics.app/embed/uaP7SKyQzNDtL3L7yMCN.js?hits&kudos&countries&uptime
 product: Ocean Front
 tag-line: 
 shopify-url:
