@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111;
-  background-color: #718fae;
+  background-color: #badcff;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -657,11 +657,11 @@ table td {
 
 /* In support of Dark Mode */
 @media (prefers-color-scheme: dark) {
-  /*body {
-    color: #E5E7EB;
-    background-color: #1F2937;
+  body {
+    color: #111;
+    background-color: #718fae;
   }
-  a, a:visited {
+  /*a, a:visited {
     color: #3B82F6;
   }*/
   img {
