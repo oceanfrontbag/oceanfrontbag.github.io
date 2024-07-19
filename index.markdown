@@ -71,7 +71,7 @@ We would leave Friday morning, not rushing out, but maybe around 9 or so. Leisur
 
 Our first stop was always for a sticky bun and coffee at a local stand next to the Lancaster Visitor Center just off of the highway. Enjoy those, get a few photos of our son, a toddler at this point, with the Amish Buggy, then get back on the road. Taking 896 south and eventually getting to Route 1, if my memory is correct. Just a few hours and we’d be in Dover, Delaware, pulling into the parking lot of the Air Mobility Command Museum located at the edge of Dover AFB. A tradition that I miss, as with all of this.
 
-Seeing the static airplanes on display never got old, even though my wife and I had seen them plenty of times before. The fun part was keeping up with our son as he would run from plane to plane, amazed at the size. I remember going into one of them and they had an old fire truck _inside the airplane_. To our 3-year-old at the time, this was mind-blowing.
+Seeing the static airplanes on display never got old, even though my wife and I had seen them plenty of times before. The fun part was keeping up with our son as he would run from plane to plane, amazed at the size. I remember going into one of them and they had an old fire truck _inside the airplane_. To our 2-year-old at the time, this was mind-blowing.
 
 ![](assets/img/product-photos/inspiration/child wandering the inside of a large airplane with a firetruck next to him.jpeg)
 
@@ -188,3 +188,33 @@ This all starts in my head first and then I turn it into something you and I can
 After attaching everything, I do some stretching to make sure I'm loose and then head into fully assembling the bag inside-out, and then through nothing but magic (muscle) flip it right-side-out. And tada! The _Ocean Front_ leather bag is ready for use!
 
 ![](assets/img/product-photos/final-product/ocean front leather bag on the kitchen floor shot through the front door with reflection.jpeg)
+
+## A Few More Photos
+
+...and a few more words since I can't seem to help myself at this point. 
+
+In the photos below you'll notice plenty of new marks on the leather that were not there when I took the original photos shown above. These new marks are from my day-to-day use of the bag and I _use_ my bag. I don't protect it, I don't baby it, I don't shy away from something happening to it. That is all part of the process, part of the story, part of the life of the bag. It also reinforces my intent with this bag to be **Your Memories With You**. A majority of the new marks came from just a few days ago, a rain storm approached quickly and we were caught in it while at the pool. My bag was there and was rained on (gasp!). And now, it looks even better than it did before.
+
+![](assets/img/product-photos/final-product/back of ocean front leather bag with rain marks.jpeg)
+
+![](assets/img/product-photos/final-product/with model/ocean front leather bag being held at the side by the straps.jpeg)
+
+![](assets/img/product-photos/final-product/with model/ocean front leather bag being worn on shoulder viewing front of bag.jpeg)
+
+![](assets/img/product-photos/final-product/with model/ocean front leather on shoulder viewing right side and front of bag.jpeg)
+
+![](assets/img/product-photos/final-product/with model/ocean front leather bag being worn on the shoulder viewing the left side.jpeg)
+
+![](assets/img/product-photos/final-product/with model/close up of the ocean front leather bag leather handles with snap grip.jpeg)
+
+![](assets/img/product-photos/final-product/with model/close up of ocean front leather bag while worn on shoulder viewing top portion.jpeg)
+
+## Purchase Your Very Own _Ocean Front_ Bag
+
+I was originally going to support purchasing of this bag directly through my main catalog but something about that just didn't feel right, too disconnected, too much work having to be done on your end, also not very _human_. And so, if you have read up to this point and are interested or ready to buy, just use the form below to send me a quick email. I'll follow-up with questions that will need answered, the color you'd like, and other options that can be discussed. Once those details are finalized I will send you an invoice through my Shopify site where you can submit payment (or you can mail a check if you still have some of those laying around). Once payment is received your order will go into my queue.
+
+I look forward to hearing from you!
+
+~ Aaron
+
+<script data-letterbirduser="amaiken" src="https://letterbird.co/embed/v1.js"></script>
