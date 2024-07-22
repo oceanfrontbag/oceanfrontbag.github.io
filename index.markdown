@@ -208,13 +208,3 @@ In the photos below you'll notice plenty of new marks on the leather that were n
 ![](assets/img/product-photos/final-product/with model/close up of the ocean front leather bag leather handles with snap grip.jpeg)
 
 ![](assets/img/product-photos/final-product/with model/close up of ocean front leather bag while worn on shoulder viewing top portion.jpeg)
-
-## Purchase Your Very Own _Ocean Front_ Bag
-
-I was originally going to support purchasing of this bag directly through my main catalog but something about that just didn't feel right, too disconnected, too much work having to be done on your end, also not very _human_. And so, if you have read up to this point and are interested or ready to buy, just use the form below to send me a quick email. I'll follow-up with questions that will need answered, the color you'd like, and other options that can be discussed. Once those details are finalized I will send you an invoice through my Shopify site where you can submit payment (or you can mail a check if you still have some of those laying around). Once payment is received your order will go into my queue.
-
-I look forward to hearing from you!
-
-~ Aaron
-
-<script data-letterbirduser="amaiken" src="https://letterbird.co/embed/v1.js"></script>
